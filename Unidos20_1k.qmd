@@ -1,0 +1,332 @@
+---
+format: revealjs
+editor: visual
+---
+
+::: columns
+::: {.column width="15%"}
+![](images/clipboard-1808645846.png){width="105"}
+:::
+
+::: {.column width="70%"}
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Київський національний університет імені Тараса Шевченка
+:::
+
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Факультет соціології
+:::
+
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Навчальна лабораторія з прикладних соціологічних досліджень
+:::
+:::
+
+::: {.column width="15%"}
+![](images/clipboard-3998324347.png){width="90"}
+:::
+:::
+
+<br>
+
+<br>
+
+<br>
+
+::: {style="font-size: 32pt; text-align: center; font-family: Helvetica;"}
+**УНІВЕРСИТЕТСЬКЕ ДОСЛІДЖЕННЯ UNiDOS-20\***
+:::
+
+## Вибіркова сукупність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [20 хвиля UNiDOS проводилася з листопада 2024 року до січня 2025 року. У ньому взяли участь 1607 студентів 1 курсу ОС "Бакалавр" та 1 року магістратури ОП "Медицина"]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Опитування охопило студентів 21 факультету/інституту та 49 спеціальностей КНУ]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Опитування проводилось у середовищі LimeSurvey шляхом розсилки запрошень на електронні адреси студентів, що були надані факультетами/інститутами. Збір інформації був анонімізований. Спершу кожному студенту надсилалось запрошення для проходження опитування. Якщо певний час не надходило відповіді або вона була неповна, йому надсилалось нагадування]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Загальний рівень відгуку становить 35.3% від загальної кількості студентів, яким було надіслано запрошення та є дещо більшим, порівняно з 19 хвилею UNiDOS]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найбільший рівень відгуку спостерігається серед студентів ННІ високих технологій (76.5%) та факультету соціології (71.9%). Найнижчий відгук був серед студентів ННІ міжнародних відносин (2.7%)]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+## Вибіркова сукупність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21327334/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="55%"}
+<iframe src="https://flo.uri.sh/visualisation/21241654/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:450px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+[Середній вік студентів – **17.57 років**]{style="font-family: Helvetica; font-size: 18pt;"}
+:::
+
+::: {.column width="45%"}
+<iframe src="https://flo.uri.sh/visualisation/21242095/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:250px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+<iframe src="https://flo.uri.sh/visualisation/21306504/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:350px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+::: columns
+::: {.column width="56%"}
+<iframe src="https://flo.uri.sh/visualisation/21284062/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:580px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="44%"}
+<iframe src="https://flo.uri.sh/visualisation/21284106/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:460px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+::: columns
+::: {.column width="52%"}
+<iframe src="https://flo.uri.sh/visualisation/21242477/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="48%"}
+<iframe src="https://flo.uri.sh/visualisation/21242653/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21242928/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:500px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21242982/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Серед опитаних студентів дівчата складають 71.4%, хлопці – 28.6%]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Середній вік студентів становить 17.57 років]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [64.3% респондентів навчаються за бюджетною формою, 35.7 – за контрактною]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [52.5% студентів мають нормальний рівень дистресу, 26.6% – підвищений, а 20.9% – високий рівень дистресу]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [27.8% студентів, оцінюючи матеріальне становище своєї родини, вказали, що коштів вистачає на продукти харчування й одяг, однак покупка речей довготривалого використання викликає труднощі. Ще 25.5% опитаних зазначили, що коштів вистачає на все необхідне, а 13.2% сказали, що живуть у повному достатку]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Для 69.6% респондентів мовою повсякденного спілкування виступає лише або переважно українська, 8.7% – лише або переважно російська. 19.9% опитаних зазначили, що спілкуються українською та російською рівною мірою]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Соціально-демографічні характеристики: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Найбільше респондентів до 24.02.2022 проживали у Києві (28.7%) та Київській області (15.2%). Найменше студентів було із Закарпатської області (0.4%)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [35% опитаних наразі проживають у студентському гуртожитку КНУ, ще 30.5% – у Києві у власному житлі (разом з батьками або без них). 17.5% опитаних винаймають житло у Києві, а 9,8% живуть в Київській області у власному житлі]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Чимало студентів (38 осіб) серед тих, хто обрав варіант "Інше" (51 особа) вказували, що проживають у гуртожитку не КНУ (зокрема, згадувались гуртожитки НУХТ або НУФВСУ)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [68.8% респондентів не змінювали місце проживання через повномасштабну війну. Натомість 13.6% студентів вказали, що були змушені виїхати за кордон, а 19.4% – до іншого населеного пункту України]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [8.3% студентів зазначили, що мають досвід проживання на окупованій території після 24.02.2022. Також 2.6% мали такий досвід з 2014 року до початку повномасштабного вторгнення]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [19.6% респондентів вказали, що мали досвід проживання у зоні бойових дій під час вторгення. 4% опитаних відзначили, що проживали в зоні бойових дій у період з 2014 року до початку повномасштабної війни]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Вступна кампанія 2024 {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="42%"}
+<iframe src="https://flo.uri.sh/visualisation/21314804/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="58%"}
+<iframe src="https://flo.uri.sh/visualisation/21307892/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Вступна кампанія 2024 {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21313998/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Вступна кампанія 2024 {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21314461/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Вступна кампанія 2024 {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+::: columns
+::: {.column width="40%"}
+<iframe src="https://flo.uri.sh/visualisation/21290659/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="60%"}
+<iframe src="https://flo.uri.sh/visualisation/21288476/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Вступна кампанія 2024 {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21314625/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Вступна кампанія 2024: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Найбільше студентів (37.7%) почали обирати ЗВО/спеціальність в 11 класі, ще 27.8% робили це після закінчення 11 класу]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [20.7% опитаних прийняли остаточне рішення про вступ до КНУ після отримання результатів НМТ, але до подачі заяв. 19.2% респондентів прийняли це рішення навчаючись в 11 класі (восени або взимку)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [59.3% студентів не відвідували жодних заходів, які мали місце у КНУ, під час підготовки до вступу. Найчастіше респонденти відвідували Дні відкритих дверей факультету/інституту, де вони навчаються (22.5%)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Подібна ситуація відворюється у розрізі більшості факультетів: щонайменше половина студентів не відвідували жодних заходів, а найбільш відвідуваним заходом стали Дні відкритих дверей їхнього факультету/інституту. Серед винятків можна назвати: 1) ФРЕКС, де студенти найчастіше відвідували Дні відкритих дверей іншого факультету/інституту КНУ; 2) ННІ журналістики, де опитані дещо частіше відвідували КНУ EXPO; 3) ННЦ "Інститут біології та медицини", ННІ ПУДС, ННІ міжнародних відносин, ННІ високих технологій, фізичний та хімічний факультети, де менше половини респондентів не відвідували жодних заходів. Але серед більшості цих підрозділів найбільш відвідуваним заходом є Дні відкритих дверей факультету/інституту, де навчаються студенти]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Вступна кампанія 2024: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [До найбільш популярних джерел інформації про факультет/спеціальність відносяться офіційний сайт університету або факультету/інституту (81.3%) та соціальні мережі (68.2%). Хоча б одне з цих джерел інформації є найбільш популярним і у розрізі окремих факультетів/інститутів]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [В середньому респонденти подавали 5.24 заяви, а середній конкурсний бал на обрану освітню програму становить 166.23. Найбільшу кількість заяв подавали студенти ННІ міжнародних відносин (в середньому 6.69), вони ж мають і найбільший конкурсний бал, порівняно з рештою факультетів/інститутів (178.95). Найменше заяв подавали курсанти ВІКНУ (2.56), а найменший середній конкурсний бал, порівняно з рештою структурних підрозділів, мають студенти ННІ "Інститут геології" (146)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [68.8% опитаних позначали заяву на обрану освітню програму першим пріоритетом, а 12.5% – другим пріоритетом. Найчастіше першим пріоритетом позначали заяву на обрану ОП студенти хімічного факультету (95%), а найменше – студенти географічного факультету (40.7% – перший пріоритет, 22.2% – четвертий пріоритет)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Мотивація отримання вищої освіти та вибору спеціальності/освітньої програми {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21290828/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:640px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Мотивація отримання вищої освіти та вибору спеціальності/освітньої програми {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21291295/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:620px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Мотивація отримання вищої освіти та вибору спеціальності/освітньої програми {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21291474/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:620px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Мотивація отримання вищої освіти та вибору спеціальності/освітньої програми: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Студенти найбільш схильні зазначати, що отримують вищу освіту тому, що мають чітку мету побудувати кар'єру і отримати престижну, добре оплачувану роботу. З цим твердженням погодились 48.7% опитаних]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+-   [Опитані схильні погоджуватися з тим, що отримують вищу освіту тому, що їм подобається навчатися, а також тому, що це дає їм можливість знайти себе і зрозуміти, чого вони прагнуть у житті. Чимало студентів погоджуються, що обирають вищу освіту, оскільки це звичний крок, який роблять більшість їхніх однолітків.]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+-   [Респонденти не схильні вважати, що отримують вищу освіту, бо так склалися обставини (56.9% зовсім незгодні з цим твердженням) і що отримання вищої освіти для них – це спосіб відкласти початок дорослого життя (33.2% зовсім незгодні з цим)]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+-   [Студенти схильні зазначати, що обирали спеціальність/освітню програму тому, що зацікавлені у ній (41.9% повністю погодились із цим) і тому, що хочуть дізнатися більше про даний напрямок (41.1% опитаних повністю згодні з цим)]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+-   [Респонденти не схильні погоджуватися з тим, що мотивами вибору спеціальності/освітньої програми були легкість отримання диплому, простота вступу або той факт, що вони проходили лише туди]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+-   [Опитані, загалом, не погоджуються з тим, що на їх вибір спеціальності/освітньої програми справило вплив оточення (батьки/родичі чи друзі/однокласники)]{style="font-family: Helvetica; font-size: 16pt; text-align: justify;"}
+
+## Оцінка КНУ та задоволеність власним вибором {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21291625/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:650px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та задоволеність власним вибором {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21291739/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:650px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та задоволеність власним вибором {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21306130/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21306199/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Плани на майбутнє {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21307847/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та задоволеність власним вибором + плани на майбутнє: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Студенти, загалом, позитивно оцінюють КНУ. Більше половини з них погоджується з більшістю тверджень щодо КНУ за винятком пунктів про відсутність корупції і тим, що КНУ пропонує одні з кращих умов для навчання, порівняно з іншими ЗВО]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [З твердженням про відсутність корупції згодні сумарно 30.6% студентів, а 15.8% опитаних з ним незгодні. Значна опитаних (41.9%) не визначились з відповіддю]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [З твердженням про те, що КНУ пропонує одні з кращих умов для навчання погодились 48.8% опитаних, 19.6% респондентів з цим не погодились]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Частіше за все респонденти схильні погоджуватися із твердженням про те, що КНУ є престижним закладом освіти серед інших ЗВО України. 67.9% повністю погодились з ним, а частка тих, хто скоріше або повністю згоден склала 88.2%]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Загалом студенти задоволені своїм вибором. 58% респондентів повністю задоволені тим, що вступили до КНУ, а 69.2% однозначно обрали його і тоді, якби їх було рекомендовано на бюджет усюди, куди вони подавали заяви]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Оцінка КНУ та задоволеність власним вибором + плани на майбутнє: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Щодо факультету, 60.9% респондентів повністю задоволені своїм вибором, а 61.4% однозначно обрали його тоді, якби їх було рекомендовано на бюджет усюди, куди вони подавали заяви (трохи менше, порівняно зі вступом до КНУ)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Відносно спеціальності, 58.7% респондентів повністю задоволені своїм вибором, а 59.1% однозначно обрали її тоді, якби їх було рекомендовано на бюджет усюди, куди вони подавали заяви]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Найменшою (хоча все одно високою) є задоволеність вибором освітньої програми: 50.3% респондентів повністю задоволені своїм вибором, а 52.3% однозначно обрали її тоді, якби їх було рекомендовано на бюджет усюди, куди вони подавали заяви]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Більше половини студентів після завершення навчання бажали б працювати за фахом в Україні (56.3%). Також значна частина опитаних хотіли б відкрити власну справу (37.1%), виїхати за кордон для навчання чи роботи (34.8%), продовжити навчання за фахом в Україні (30.7%)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
